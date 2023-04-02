@@ -35,6 +35,10 @@ Just clone this repository
 
 > Visit https://github.com/aircrack-ng/aircrack-ng if this package is missing (unlikely)
 
+# Set Up
+
+`sudo bash setup.sh`
+
 # Usage
 
 `sudo bash WiTools.sh`
