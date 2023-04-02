@@ -28,7 +28,11 @@ Just clone this repository
 
 `cd WiTool`
  
-# Dependencies
+# Requirements
+
+*• gunzip*
+> `sudo apt install gunzip` to install gunzip
+
 *• git*
 
 *• Aircrack package*
