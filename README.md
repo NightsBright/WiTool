@@ -37,7 +37,9 @@ Just clone this repository
 
 # Set Up
 
-`sudo bash setup.sh`
+`cd scripts`
+
+`sudo gunzip rockyou.txt.gz`
 
 # Usage
 
