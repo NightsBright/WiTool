@@ -2,6 +2,9 @@
 
 A simple tool written in bash to automate capturing handshakes, deauthenticating neworks and cracking wpa handshake hashes.
 
+![image](https://user-images.githubusercontent.com/129623371/229337113-bf4e2307-4b61-44c6-84af-ebda42dc0aaa.png)
+
+
 #                                                               Disclaimer
 
 Any actions and or activities related to WiTool is solely your responsibility. The misuse of this toolkit can result in criminal charges brought against the persons in question. The contributors will not be held responsible in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
