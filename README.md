@@ -30,10 +30,10 @@ Just clone this repository
  
 # Requirements
 
+*• git*
+
 *• gunzip*
 > `sudo apt install gunzip` to install gunzip
-
-*• git*
 
 *• Aircrack package*
 
