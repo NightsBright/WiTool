@@ -32,6 +32,8 @@ Just clone this repository
 
 *• git*
 
+*• wget*
+
 *• gunzip*
 > `sudo apt install gunzip` to install gunzip
 
